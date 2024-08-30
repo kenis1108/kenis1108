@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenis1108&label=访问量&color=0e75b6&style=flat" alt="kenis1108" />
+  <img src="https://komarev.com/ghpvc/?username=kenis1108&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="kenis1108" />
 </p>
 
 <p align="center">
