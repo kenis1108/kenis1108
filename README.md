@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/github/issues/kenis1108/kenis1108?style=flat-square" alt="Issues" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenis1108&show_icons=true&locale=cn&theme=dracula" alt="kenis1108" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenis1108&layout=compact&locale=cn&theme=dracula" alt="kenis1108最常用的语言" />
-</p>
-
 ### 🚀 About Me
 
 - 🔭 我目前正在研究 [您的项目名称]
@@ -44,7 +37,7 @@
 </div> -->
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pagkit.com/shopify-theme-code-explained/&size=64" alt="shopify" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="NixOS" width="40" height="40"/>
@@ -66,9 +59,9 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kenis1108&theme=darcula&locale=zh_Hans&)" alt="kenis1108 统计数据" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kenis1108&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=kenis1108&include_all_commits=true)
+
+![](https://github-stats-extended.vercel.app/api/top-langs?username=kenis1108&langs_count=4&hide_values=true)
 
 ### 📫 Contact me
 
